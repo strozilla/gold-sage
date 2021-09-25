@@ -3,9 +3,9 @@ main {
   min-height: 80vh;
 }
 
-#navbar {
-  height: 5vh;
+#navbar .container{
   border: solid 2px black;
+  width: 100%;
 }
 
 #navBrand {
@@ -19,3 +19,9 @@ main {
 #navLinks a:hover {
   color: black;
 }
+
+#reviewSec {
+  margin-top: 10rem;
+  text-align: center;
+}
+
